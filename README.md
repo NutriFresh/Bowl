@@ -17,7 +17,7 @@ This package is the updated NutriFresh Bowl website with the requested ordering 
 - **Razorpay payment option** is built into the booking flow.
 - Updated prices:
   - NutriFresh Oats Bowl — **₹129**
-  - NutriFresh Protein Bowl — **₹129**
+  - NutriFresh Protein Bowl — **₹119**
   - NutriFresh Basil Bowl — **₹119**
   - Nutri Power Sandwich — **₹109**
   - NutriFresh ABC Juice — **₹99**
