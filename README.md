@@ -3,17 +3,12 @@
 A clean, mobile-first healthy-food ordering site designed around NutriFresh Bowl's gym-first model. The design takes cues from modern healthy-food ordering experiences: strong product photography, simple menu cards, clear add-to-order actions, and a short scheduled-order journey. Examples reviewed included Sweetgreen's order-ahead/batched-delivery experience and FreshMenu's menu-first ordering layout.
 
 ## Final menu
-- NutriFresh Oats Bowl — ₹99
-- NutriFresh Protein Bowl — ₹99
-- NutriFresh Basil Bowl — ₹89
-- Nutri Power Sandwich — ₹79
-- NutriFresh ABC Juice — ₹99 (Apple • Beetroot • Carrot)
-- NutriFresh Banana Milk Shake — ₹89 (Milk • Banana • Dates • Chana)
-
-### Combos
-- Nutri Power Sandwich + ABC Juice — ₹169
-- NutriFresh Protein Bowl + Banana Milk Shake — ₹169
-- NutriFresh Protein Bowl + ABC Juice — ₹179
+- NutriFresh Oats Bowl — ₹129
+- NutriFresh Protein Bowl — ₹129
+- NutriFresh Basil Bowl — ₹119
+- Nutri Power Sandwich — ₹109
+- NutriFresh ABC Juice — ₹99 Apple • Beetroot • Carrot
+- NutriFresh Banana Milk Shake — ₹89 Milk • Banana • Dates • Chana
 
 ## Ordering rules implemented
 - Orders must be placed by **11:59 PM on the day before the selected delivery date**.
