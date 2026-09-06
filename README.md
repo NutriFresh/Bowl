@@ -21,7 +21,7 @@ A clean, mobile-first healthy-food ordering site designed around NutriFresh Bowl
 Upload all files/folders to a GitHub repository, then enable **Settings → Pages → Deploy from a branch → main → /(root)**.
 
 ## Logo
-The supplied clean NutriFresh Bowl logo is included at `assets/logo.png` and is used in the header and footer.
+The supplied clean NutriFresh Bowl logo is included at `assets/NutriFresh_logo.png` and is used in the header and footer.
 
 ## Images
 The current site uses responsive remote food photography from Unsplash. For the strongest brand result before launch, replace these with your own NutriFresh Bowl product photographs that exactly match the final recipes.
