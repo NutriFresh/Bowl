@@ -2,7 +2,7 @@ const MIN_ORDER = 149;
 
 // IMPORTANT: Do not present Razorpay as live until you add your own live Payment Link.
 // Replace the value below with the exact Razorpay Payment Link from your Razorpay dashboard.
-const RAZORPAY_PAYMENT_LINK = "PASTE_YOUR_RAZORPAY_PAYMENT_LINK_HERE";
+const RAZORPAY_PAYMENT_LINK = "https://rzp.io/rzp/qrYZXELG";
 
 const PRODUCTS = {
   oats: { name: "NutriFresh Oats Bowl", price: 129 },
